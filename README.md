@@ -1,2 +1,2 @@
-# apache-cayenne-demo
-Apache Cayenne Demo with java
+# Java Hibernate Demo
+Apache Hibernate Demo with java
